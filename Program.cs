@@ -65,5 +65,8 @@ a = -9 b = -3 -> max = -3
 
 в виде ссылки на удаленный репозиторий
 */
-1
- 
+
+
+string username = Console.ReadLine();
+Console.WriteLine("Привет, ");
+Console.WriteLine(username);
